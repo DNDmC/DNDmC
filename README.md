@@ -17,6 +17,8 @@ Data analyst focused on analysis, visualization and understanding the data, and 
 [![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=Microsoft-SQL-Server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![PrestoDB](https://img.shields.io/badge/-PrestoDB-333?style=flat&logo=Presto&logoColor=white)](https://prestodb.io/)
 
 ### 🎲 Ciência de Dados / Data Science:
 [![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)](https://pandas.pydata.org/)
