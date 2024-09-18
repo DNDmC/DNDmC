@@ -31,6 +31,7 @@ Data analyst focused on analysis, visualization and understanding the data, and 
 ## 📚 Tenho conhecimento básico / Basic Knowledge:
 [![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=power-bi)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)](https://www.tableau.com/)
+[![SparkSQL](https://img.shields.io/badge/-SparkSQL-333?style=flat&logo=Apache-Spark&logoColor=white)](https://spark.apache.org/sql/)
 
 ## 🌱 Estou aprendendo / Learning:
 [![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)](https://www.r-project.org/)
