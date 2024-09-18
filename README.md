@@ -4,7 +4,8 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:filipi_98@outlook.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/felps98)
 
-![DALL·E-2024](https://github.com/user-attachments/assets/71fc703f-fdd8-4734-8284-8f6be19cfc67)
+![Analista-de-Dados](https://github.com/user-attachments/assets/21a75e57-0e36-4167-9fa3-3e6cbc4d40b3)
+
 
 Analista de dados com foco nos processos de análise, visualização e compreensão dos dados, e demais processos que apoiem a squad de finanças na evolução dos produtos, serviços e entregas.
 
